@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Katie.
+
+I am a Data Analyst who has previously worked on postal measurement surveys in the UK. 
+
+If you would like to learn more about my previous job experience please see my linkedin profile (https://www.linkedin.com/in/katie-easton-9bb916160/) 
 
 <!--
 **Eastonkatie/Eastonkatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
