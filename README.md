@@ -1,6 +1,9 @@
-### Hi there 👋 My name is Katie.
+### Hi there, my name is Katie 👋
 
-I am a Data Analyst who has previously worked on postal measurement surveys in the UK. 
+🌱 I'm new to Github 
+🔭 I am a Data Analyst who has previously worked on postal measurement surveys in the UK. 
+😄 Currently expanding my technical skills on Python and Github
+⚡ Fun fact: I recently returned from 6 weeks in Madagascar
 
 If you would like to learn more about my previous job experience please see my linkedin profile (https://www.linkedin.com/in/katie-easton-9bb916160/) 
 
